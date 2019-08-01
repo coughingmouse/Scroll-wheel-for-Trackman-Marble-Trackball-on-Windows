@@ -24,6 +24,7 @@ more natural for logi trackman marble.
 2019-07-25 by Coughingmouse
 */
 
+
 ;; Configuration
 
 ;#NoTrayIcon
@@ -38,8 +39,15 @@ esmb_TriggerKey = XButton1
 ;; which is when esmb_TriggerKey is pressed
 cursor_not_crazy = 1
 
-
 ;; End of configuration
+
+
+
+
+
+
+
+
 
 #Persistent
 CoordMode, Mouse, Screen
@@ -50,6 +58,7 @@ SetTimer, esmb_CheckForScrollEventAndExecute, 10
 
 OnExit, ShowCursor  ; Ensure the cursor is made visible when the script exits.
 return
+
 
 
 ShowCursor:
