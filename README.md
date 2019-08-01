@@ -70,7 +70,7 @@ In the Configuration section of the .ahk file, you can relatively easily tweak s
 
 This file was originally created by [Erik Elmore](https://github.com/IronSavior), a.k.a. IronSavior at https://autohotkey.com/board/topic/4677-wheel-button-emulation-script/ back in 2005-08-16.  
 [Wayne Jensen](https://github.com/kwaiette) (kwaiette) added natural multidirectional scroll at https://github.com/kwaiette/trackman-scroll-wheel.  
-Thank you both!
+I'd like to thank them both.
 
 I added in the middle mouse holding for Blender, and changed threshold to fit my cursor speed. But then on my dual monitor setup, on my second monitor, it didn't work as intended. So I googled up what was causing the problem, fixed it, and made cursor invisible while scrolling so that you don't see cursor going nuts. I'm sure there's a way to make cursor stay still, but I haven't tried that.
 
