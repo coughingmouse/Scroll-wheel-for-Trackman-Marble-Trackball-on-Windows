@@ -1,6 +1,9 @@
 # Scroll wheel for Trackman Marble Trackball
-Using AutoHotKey(AHK), enables (semi-) natural (vertical and horizontal) scroll wheel and middle click on multi-monitor setup.
+Using AutoHotKey(AHK), you can scroll freely with your trackball and drag while pressing middle mouse button. (even on multi-monitor setup)
 
+This is definately for you if you use Blender and logi Trackman Marble Trackball.
+
+It can also be used by anyone using a trackball. You may want to tweak sentivity threshold manually in the .ahk file to your liking, to be able to scroll at speed you wish to scroll.
 
 
 
@@ -57,6 +60,12 @@ Once you close the file through the tray icon or by log out, you will have to re
 
 
 ## FYI
+
+In the Configuration section of the .ahk file, you can relatively easily tweak sensitivity(esmb_Threshold), which buttons you want to use(XButton1 and XButton2), and whether to hide cursor while scrolling.
+
+
+## License?
+
 ##### For your information,
 
 This file was originally created by [Erik Elmore](https://github.com/IronSavior), a.k.a. IronSavior at https://autohotkey.com/board/topic/4677-wheel-button-emulation-script/ back in 2005-08-16.  
@@ -64,10 +73,6 @@ This file was originally created by [Erik Elmore](https://github.com/IronSavior)
 Thank you both!
 
 I added in the middle mouse holding for Blender, and changed threshold to fit my cursor speed. But then on my dual monitor setup, on my second monitor, it didn't work as intended. So I googled up what was causing the problem, fixed it, and made cursor invisible while scrolling so that you don't see cursor going nuts. I'm sure there's a way to make cursor stay still, but I haven't tried that.
-
-
-
-## License?
 
 As for licensing, I would like to specify anything but I haven't asked for permission for neither Erik nor Wayne, and the code I copy-pasted is GPL so I shouldn't be uploading this anywhere yet but in case anyone needs it ASAP, I'm uploading my tweak for the time being. I should have asked their permissions but I'm too lazy... Anyways that's why this's for my personal use only and I have no right to allow anyone to use it. ¯\\\_(ツ)\_/¯
 
