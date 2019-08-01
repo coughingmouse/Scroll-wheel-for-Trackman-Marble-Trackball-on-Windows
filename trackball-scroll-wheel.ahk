@@ -173,6 +173,6 @@ esmb_CheckForScrollEventAndExecute:
 
 return
 
-  ;; Added XButton2 for Blender 2019-07-25 by Coughingmouse
+  ;; Added XButton2 for Blender
   XButton2:: MButton ; I'm sorry, I don't know how to code
 
