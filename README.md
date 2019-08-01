@@ -43,7 +43,7 @@ I have no right to do anything with this code. I'm only using this for personal 
 
 ##### To use through installing and running (and auto-running at startup):
 
-1. Download the trackball-scroll-wheel.ahk file.
+1. Download the `trackball-scroll-wheel.ahk` file.
 
 1. Download [AutoHotKey](https://www.autohotkey.com/).  
 You can automate stuff with this thing. You can swap keys. It's awesome. It's Free and Open Source, by GPLv2.
@@ -71,4 +71,4 @@ I added in the middle mouse holding for Blender, and changed threshold to fit my
 
 As for licensing, I would like to specify anything but I haven't asked for permission for neither Erik nor Wayne, and the code I copy-pasted is GPL so I shouldn't be uploading this anywhere yet but in case anyone needs it ASAP, I'm uploading my tweak for the time being. I should have asked their permissions but I'm too lazy... Anyways that's why this's for my personal use only and I have no right to allow anyone to use it. ¯\\\_(ツ)\_/¯
 
-I haven't tried it myself, but there's https://github.com/Seelge/TrackballScroll if you want a simpler solution with an actual license.
+I haven't tried it myself, but it seems there's [*TrackballScroll*](https://github.com/Seelge/TrackballScroll) by [Seelge](https://github.com/Seelge) if you want a simpler solution with an actual license.
