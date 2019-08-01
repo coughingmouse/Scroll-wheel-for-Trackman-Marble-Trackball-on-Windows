@@ -5,8 +5,6 @@ Using AutoHotKey(AHK), enables (semi-) natural scroll wheel and middle click on 
 I have no right to do anything with this code. I'm only using this for personal use. I have no right to share this code or allow anyone to use it. But the code's online and I'm pretty sure you do have the ability to use this for your own good privately.  
 ( ͡° ͜ʖ ͡°)
 
-## Navigation
-
 ## Features
 
 This enables you to:
