@@ -111,14 +111,14 @@ esmb_TriggerKeyDown:
   esmb_HAccumulatedDistance = 0
 
   if (cursor_not_crazy = 1){
-    SystemCursor("Toggle")
+    SystemCursor(0)
   }
 return
 
 esmb_TriggerKeyUp:
   esmb_KeyDown = n
   if (cursor_not_crazy = 1){
-    SystemCursor("Toggle")
+    SystemCursor(1)
   }
   ;; Send a middle-click if we did not scroll
   if esmb_Moved = n
