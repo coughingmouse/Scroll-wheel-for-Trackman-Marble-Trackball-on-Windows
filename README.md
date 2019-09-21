@@ -12,6 +12,8 @@ It can also be used by anyone using a trackball. You may want to tweak sentivity
 I have no right to do anything with this code. I'm only using this for personal use. I have no right to share this code or allow anyone to use it. But the code's online and I'm pretty sure you do have the ability to use this for your own good privately. You can probably mod it to your liking. I don't know how, though.
 ( ͡° ͜ʖ ͡°)
 
+The cursor will become invisible by default when scrolling. You can make it visible, but it will twitch crazily while scrolling. Once this issue is fixed, you won't have this problem.
+
 
 
 ## Features
