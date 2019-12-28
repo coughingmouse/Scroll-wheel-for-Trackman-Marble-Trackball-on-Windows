@@ -1,5 +1,6 @@
-# Scroll wheel for Trackman Marble Trackball on Windows using AHK
-Using AutoHotKey(AHK), you can scroll freely with your trackball and drag while pressing middle mouse button. (even on multi-monitor setup)
+# Scroll wheel for Trackman Marble Trackball 
+
+**On Windows using AutoHotKey(AHK)**, you can scroll freely with your trackball and drag while pressing middle mouse button. (even on multi-monitor setup)
 
 This is definately for you if you use Blender and logi Trackman Marble Trackball.
 
@@ -48,14 +49,14 @@ The cursor will become invisible by default when scrolling. You can make it visi
 
 ##### To use through installing and running (and auto-running at startup):
 
-1. Download the `trackball-scroll-wheel.ahk` file.
-
 1. Download [AutoHotKey](https://www.autohotkey.com/).  
 You can automate stuff with this thing. You can swap keys. It's awesome. It's Free and Open Source, by GPLv2.
 We need this program to run an .ahk file, like how you need a music player app to run .ogg/.mp3 music files.
 
-1. Double click the .ahk file you downloaded. It'll run. Like how music plays when you open a music file.
-Once you close the file through the tray icon or by log out, you will have to re-run the file again. Or, you could do the following.
+1. Download the `trackball-scroll-wheel.ahk` file.
+
+1. Double click the .ahk file you downloaded. It'll run. Check whether it works well for you or not.
+Once you close the file through the tray icon or by log out, you will have to re-run the file again. Or, you could do the following:
 
 1. To  run the file on startup, refer to https://www.autohotkey.com/docs/FAQ.htm#Startup on the Startup section.
 
