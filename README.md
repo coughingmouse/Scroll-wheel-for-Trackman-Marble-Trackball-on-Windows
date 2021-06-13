@@ -1,5 +1,7 @@
 # Scroll wheel for Trackman Marble Trackball 
 
+# Seems to have broke somewhere as of 2021-06-13. Do not use this.
+
 **On Windows using AutoHotKey(AHK)**, you can scroll freely with your trackball and drag while pressing middle mouse button. (even on multi-monitor setup)
 
 This is definately for you if you use Blender and logi Trackman Marble Trackball.
